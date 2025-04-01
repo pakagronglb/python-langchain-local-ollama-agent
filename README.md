@@ -1,5 +1,7 @@
 # Local AI Agent with LangChain
 
+<img width="1030" alt="Screenshot 2025-04-01 at 16 22 47" src="https://github.com/user-attachments/assets/b29d0429-178e-40b5-b337-ed8bfe291899" />
+
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![LangChain](https://img.shields.io/badge/LangChain-0.1.0-orange.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
