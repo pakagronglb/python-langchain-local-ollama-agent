@@ -30,8 +30,8 @@ This project is based on the tutorial by TechWithTim:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/lpython-local-ai-agent-langchain.git
-cd lpython-local-ai-agent-langchain
+git clone https://github.com/yourusername/python-langchain-local-ollama-agent.git
+cd python-langchain-local-ollama-agent
 ```
 
 2. Create and activate a virtual environment:
